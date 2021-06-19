@@ -3,7 +3,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=dr-beat&show_icons=true&theme=dark" />
   </a>
   <a href="https://github.com/dr-BEat?tab=repositories">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dr-beat&hide=css,html&theme=dark" />
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr-beat&hide=css,html&theme=dark" />
   </a>
 </p>
 
